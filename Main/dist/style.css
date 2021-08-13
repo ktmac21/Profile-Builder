@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card {
+    text-align: center;
+    color:black;
+    height: 250px;
+    width: 400px; 
+    background-color: rgb(209, 205, 205);
+    border:black 2px solid; 
+    border-radius: 15px;
+}
+
+
+
+
+
